@@ -120,7 +120,7 @@ class Combiner
         Disposed = true;
         if (disposing) {
             // Add producer as Little's PDF Merge using itext
-            PdfString l = new PdfString("SuicSoft Little's PDF Merge for Android 0.1 (http://www.suicsoft.com) using " + com.itextpdf.text.Version.getInstance().getVersion());
+            PdfString l = new PdfString("SuicSoft Little's PDF Merge for Android 0.1 (http://www.suicsoft.com) using iText");
             Copy.getInfo().put(PdfName.PRODUCER, l);
             Copy.getInfo().put(PdfName.CREATOR, l);
             l = null;

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Little'sPDFMerge.iml" filepath="$PROJECT_DIR$/Little'sPDFMerge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Little-PDF-Merge-Android.iml" filepath="$PROJECT_DIR$/Little-PDF-Merge-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
