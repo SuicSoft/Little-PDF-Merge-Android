@@ -1,0 +1,37 @@
+<!--
+  ~ Copyright (c) 2015 SuicSoft / SuiciStudios(tm).
+  ~
+  ~ Author : Suici Doga (suiciwd@gmail.com , suiciwd@gmail.com)  / contributors
+  ~
+  ~ Contact : suiciwd@gmail.com , suiciwd@outlook.com , https://gitter.im/SuicSoft/SuicSoft
+  ~
+  ~ Website : http://suicsoft.com , http://suicsoft.github.io
+  ~
+  ~ App created and programmed by SuicSoft, designed by SuiciStudios (SuicSoft).
+  ~
+  ~ License :
+  ~
+  ~
+  ~
+  -->
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

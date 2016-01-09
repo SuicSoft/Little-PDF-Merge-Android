@@ -1,0 +1,23 @@
+<!--
+  ~ Copyright (c) 2015 SuicSoft / SuiciStudios(tm).
+  ~
+  ~ Author : Suici Doga (suiciwd@gmail.com , suiciwd@gmail.com)  / contributors
+  ~
+  ~ Contact : suiciwd@gmail.com , suiciwd@outlook.com , https://gitter.im/SuicSoft/SuicSoft
+  ~
+  ~ Website : http://suicsoft.com , http://suicsoft.github.io
+  ~
+  ~ App created and programmed by SuicSoft, designed by SuiciStudios (SuicSoft).
+  ~
+  ~ License :
+  ~
+  ~
+  ~
+  -->
+
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>

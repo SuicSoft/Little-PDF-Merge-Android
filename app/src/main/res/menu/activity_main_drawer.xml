@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015 SuicSoft / SuiciStudios(tm).
+  ~
+  ~ Author : Suici Doga (suiciwd@gmail.com , suiciwd@gmail.com)  / contributors
+  ~
+  ~ Contact : suiciwd@gmail.com , suiciwd@outlook.com , https://gitter.im/SuicSoft/SuicSoft
+  ~
+  ~ Website : http://suicsoft.com , http://suicsoft.github.io
+  ~
+  ~ App created and programmed by SuicSoft, designed by SuiciStudios (SuicSoft).
+  ~
+  ~ License :
+  ~
+  ~
+  ~
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_star_24dp"
+            android:title="@string/rate" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_settings_24dp"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_exit_to_app_24dp"
+            android:title="SuicSoft.com" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_info_outline_24dp"
+            android:title="@string/about" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_bug_report_24dp"
+                android:title="Report a bug" />
+        </menu>
+    </item>
+
+</menu>
