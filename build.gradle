@@ -28,6 +28,9 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
+
+apply plugin: 'android'
+
 android {
       lintOptions {
           abortOnError false
