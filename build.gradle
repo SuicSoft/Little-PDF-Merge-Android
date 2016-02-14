@@ -36,6 +36,7 @@ android {
           abortOnError false
       }
       buildToolsVersion "23.0.2"
+      compileSdkVersion 23
 }
 
 allprojects {
