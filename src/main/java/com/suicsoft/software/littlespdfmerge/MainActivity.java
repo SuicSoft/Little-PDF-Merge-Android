@@ -187,11 +187,11 @@ public class MainActivity extends AppCompatActivity
         setSupportActionBar(toolbar);
         AdView mAdView = (AdView) findViewById(R.id.adView);
         AdRequest.Builder adRequest = new AdRequest.Builder();
-        adRequest.addTestDevice("833A940671CD2A6BFB88CB8E65DF669D"); //Nexus 9 which is used to debug Little's PDF Merge.
+        adRequest.addTestDevice("E1F28B0FC43288379148429E0D354FFB"); //Nexus 9 which is used to debug Little's PDF Merge.
         if (preferences.getInt("merge", 0) > 15) {
             Log.v("Ads", "Ads have been removed since you are now a long term user");
             mAdView.setVisibility(View.GONE); //Remove ads after the 15th merge
-            Toast.makeText(getApplicationContext(), "Ads have been removed automatically", Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), "Ads have been removed automatically since you have merged PDFs 15 times", Toast.LENGTH_LONG).show();
         } else
             mAdView.loadAd(adRequest.build());
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
@@ -276,7 +276,7 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_camera) {
-            startActivity(new Intent(MainActivity.this, com.suicsoft.software.littlespdfmerge.SettingsActivity.class));
+            //startActivity(new Intent(MainActivity.this, com.suicsoft.software.littlespdfmerge.SettingsActivity.class));
         } else if (id == R.id.nav_gallery) {
 
         } else if (id == R.id.nav_slideshow) {
