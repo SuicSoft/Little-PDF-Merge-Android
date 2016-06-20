@@ -16,7 +16,7 @@ and download the great **GOODWARE**
 
 # Oh! And if you want to see, here's the dog we were talking about!
 
-![The cute and cuddly dog](https://raw.githubusercontent.com/SuicSoft/SuicSoft-Art/master/Suici/Suici%20(Original).png)
+
 
 I'm Suici. Say that like Sooky. I'm not as popular as Android, Duo or the Octocat, But I'm on the web!
 What Am I? I'm a dog, bearded collie puppy! - And I was drawn in Fresh Paint for the Logo . later edited in GIMP and vectorized in Inkscape  - But I'm real!
