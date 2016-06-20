@@ -22,6 +22,7 @@ What Am I? I'm a dog, bearded collie puppy! - And I was drawn in Fresh Paint for
 # Download
 
 COMING SOON
+
 # Buidling from source
 ## For Linux
 
@@ -35,6 +36,8 @@ COMING SOON
 LINK :
 
 TODO
+
+# How to use
 
 
 
