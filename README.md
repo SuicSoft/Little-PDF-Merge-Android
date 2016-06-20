@@ -1,4 +1,6 @@
-# Little's PDF Merge for Android
+<img style='float:left; height: 24px; width: 24px; margin-right: 4px;' src='https://raw.githubusercontent.com/SuicSoft/Little-PDF-Merge-Android/developer/src/main/res/mipmap-hdpi/ic_launcher.png'>
+#Little's PDF Merge for Android
+
 Free , as fast as a running 🐕 dog ,and open source PDF merger with support for multiple platforms.
 
 Free to use, distrubute and modify 
